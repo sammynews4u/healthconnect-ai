@@ -33,7 +33,7 @@ const App: React.FC = () => {
           <div className="w-20 h-20 bg-blue-600 rounded-2xl flex items-center justify-center mx-auto mb-6 shadow-lg shadow-blue-200">
             <i className="fas fa-heartbeat text-white text-4xl"></i>
           </div>
-          <h1 className="text-3xl font-bold text-gray-900 mb-2">HealthConnect AI</h1>
+          <h1 className="text-3xl font-bold text-gray-900 mb-2">AFYACAL</h1>
           <p className="text-gray-500 mb-8">Join thousands of patients receiving world-class digital care.</p>
           
           <div className="space-y-4">

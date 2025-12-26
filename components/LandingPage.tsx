@@ -14,7 +14,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onStart }) => {
           <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
             <i className="fas fa-heartbeat text-white"></i>
           </div>
-          <span className="font-bold text-xl text-gray-900 tracking-tight">HealthConnect AI</span>
+          <span className="font-bold text-xl text-gray-900 tracking-tight">AFYACAL</span>
         </div>
         <div className="hidden md:flex items-center gap-8">
           <a href="#features" className="text-gray-500 hover:text-blue-600 font-medium transition">Features</a>
@@ -142,7 +142,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onStart }) => {
               <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
                 <i className="fas fa-heartbeat text-white"></i>
               </div>
-              <span className="font-bold text-xl tracking-tight">HealthConnect AI</span>
+              <span className="font-bold text-xl tracking-tight">AFYACAL</span>
             </div>
             <p className="text-gray-400 max-w-sm mb-8">
               Transforming the way patients interact with healthcare professionals through secure, AI-powered technology.
@@ -173,7 +173,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onStart }) => {
           </div>
         </div>
         <div className="max-w-7xl mx-auto mt-16 pt-8 border-t border-white/10 text-center text-gray-500 text-sm">
-          © 2025 HealthConnect AI. All rights reserved. Professional verification required for providers.
+          © 2025 AFYACAL. All rights reserved. Professional verification required for providers.
         </div>
       </footer>
     </div>
