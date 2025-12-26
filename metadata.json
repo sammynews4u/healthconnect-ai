@@ -1,0 +1,8 @@
+{
+  "name": "HealthConnect AI",
+  "description": "A comprehensive digital health platform connecting patients with medical professionals for triage, advice, and virtual consultations, powered by Gemini AI for smart symptom checking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
